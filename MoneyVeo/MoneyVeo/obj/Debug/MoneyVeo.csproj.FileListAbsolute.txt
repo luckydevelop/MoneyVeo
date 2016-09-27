@@ -9,10 +9,8 @@ c:\users\lucky\documents\visual studio 2015\Projects\MoneyVeo\MoneyVeo\obj\Debug
 c:\users\lucky\documents\visual studio 2015\Projects\MoneyVeo\MoneyVeo\obj\Debug\MoneyVeo.pdb
 c:\users\lucky\documents\visual studio 2015\Projects\MoneyVeo\MoneyVeo\bin\Debug\nunit.framework.dll
 c:\users\lucky\documents\visual studio 2015\Projects\MoneyVeo\MoneyVeo\bin\Debug\nunit.framework.xml
-C:\Users\Lucky\Documents\Visual Studio 2015\Projects\TaskFromMoneyVeo\MoneyVeo\MoneyVeo\bin\Debug\MoneyVeo.exe.config
-C:\Users\Lucky\Documents\Visual Studio 2015\Projects\TaskFromMoneyVeo\MoneyVeo\MoneyVeo\obj\Debug\MoneyVeo.exe
-C:\Users\Lucky\Documents\Visual Studio 2015\Projects\TaskFromMoneyVeo\MoneyVeo\MoneyVeo\obj\Debug\MoneyVeo.pdb
-C:\Users\Lucky\Documents\Visual Studio 2015\Projects\TaskFromMoneyVeo\MoneyVeo\MoneyVeo\bin\Debug\MoneyVeo.exe
+C:\Users\Lucky\Documents\Visual Studio 2015\Projects\TaskFromMoneyVeo\MoneyVeo\MoneyVeo\bin\Debug\MoneyVeo.dll.config
+C:\Users\Lucky\Documents\Visual Studio 2015\Projects\TaskFromMoneyVeo\MoneyVeo\MoneyVeo\bin\Debug\MoneyVeo.dll
 C:\Users\Lucky\Documents\Visual Studio 2015\Projects\TaskFromMoneyVeo\MoneyVeo\MoneyVeo\bin\Debug\MoneyVeo.pdb
 C:\Users\Lucky\Documents\Visual Studio 2015\Projects\TaskFromMoneyVeo\MoneyVeo\MoneyVeo\bin\Debug\nunit.framework.dll
 C:\Users\Lucky\Documents\Visual Studio 2015\Projects\TaskFromMoneyVeo\MoneyVeo\MoneyVeo\bin\Debug\WebDriver.dll
@@ -20,3 +18,6 @@ C:\Users\Lucky\Documents\Visual Studio 2015\Projects\TaskFromMoneyVeo\MoneyVeo\M
 C:\Users\Lucky\Documents\Visual Studio 2015\Projects\TaskFromMoneyVeo\MoneyVeo\MoneyVeo\bin\Debug\nunit.framework.xml
 C:\Users\Lucky\Documents\Visual Studio 2015\Projects\TaskFromMoneyVeo\MoneyVeo\MoneyVeo\bin\Debug\WebDriver.xml
 C:\Users\Lucky\Documents\Visual Studio 2015\Projects\TaskFromMoneyVeo\MoneyVeo\MoneyVeo\bin\Debug\WebDriver.Support.xml
+C:\Users\Lucky\Documents\Visual Studio 2015\Projects\TaskFromMoneyVeo\MoneyVeo\MoneyVeo\obj\Debug\MoneyVeo.csprojResolveAssemblyReference.cache
+C:\Users\Lucky\Documents\Visual Studio 2015\Projects\TaskFromMoneyVeo\MoneyVeo\MoneyVeo\obj\Debug\MoneyVeo.dll
+C:\Users\Lucky\Documents\Visual Studio 2015\Projects\TaskFromMoneyVeo\MoneyVeo\MoneyVeo\obj\Debug\MoneyVeo.pdb
