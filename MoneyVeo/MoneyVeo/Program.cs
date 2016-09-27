@@ -26,7 +26,8 @@ namespace MoneyVeo
             FindElementWithWait(ButtonSearch).Click();
             string actualResult = FindElementWithWait(TextForthResultHeader).Text;
             bool res = actualResult.Contains(ExpectedResult);
-            Assert.IsTrue(res, $"Actual result '{actualResult}' should contain next subString '{ExpectedResult}'");
+            //Assert.IsTrue(res, $"Actual result '{actualResult}' should contain next subString '{ExpectedResult}'");
+            Assert.IsTrue(res, "Actual result '" + actualResult + "'should contain next subString '" + ExpectedResult + "'");
         }
 
         private static IWebElement FindElementWithWait(By locator)
